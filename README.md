@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **TimofteRazvan/TimofteRazvan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -27,5 +25,9 @@ Here are some ideas to get you started:
   <a href="https://www.facebook.com/razvan.timofte.52/">
     <img src="https://img.shields.io/badge/Facebook-blue?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook Badge"/>
   </a>
+    <h1>
+  Welcome
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+</h1>
 </div>
 </div>
