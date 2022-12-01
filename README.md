@@ -25,9 +25,10 @@ Here are some ideas to get you started:
   <a href="https://www.facebook.com/razvan.timofte.52/">
     <img src="https://img.shields.io/badge/Facebook-blue?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook Badge"/>
   </a>
-  <br \>
+   <br \>
   <img src="https://img.shields.io/badge/razvanhdt13-@gmail-red?style=plastic&logo=gmail&labelColor=white" alt="Google Badge"/>  
   <img src="https://img.shields.io/badge/Gryphon-2942-grey?style=plastic&logo=discord&labelColor=white" alt="Discord Badge"/>
+   <br \> Remember, 6 hours of debugging can save you 5 minutes of reading documentation!
 <h1>
   Welcome
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
