@@ -29,9 +29,37 @@ Here are some ideas to get you started:
   <img src="https://img.shields.io/badge/razvanhdt13-@gmail-red?style=plastic&logo=gmail&labelColor=white" alt="Google Badge"/>  
   <img src="https://img.shields.io/badge/Gryphon-2942-grey?style=plastic&logo=discord&labelColor=white" alt="Discord Badge"/>
    <br \> Remember, 6 hours of debugging can save you 5 minutes of reading documentation!
-<h1>
-  Welcome
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
-</h1>
 </div>
 </div>
+
+<div id="header" align="center">
+<h1>My Projects</h1>
+</div>
+
+- University
+  - 1<sup>st</sup> Semester
+    - [Computer Systems Architecture](https://github.com/TimofteRazvan/university-projects/tree/main/1st-semester/computational-logic)
+    - [Computational Logic](https://github.com/TimofteRazvan/university-projects/tree/main/1st-semester/computer-systems-architecture)
+    - [Fundamentals of Programming](https://github.com/TimofteRazvan/university-projects/tree/main/1st-semester/fundamentals-of-programming)
+    - Algebra
+    - Calculus
+  - 2<sup>nd</sup> Semester
+    - [Operating Systems](https://github.com/TimofteRazvan/university-projects/tree/main/2nd-semester/operating-systems)
+    - [Object-Oriented Programming](https://github.com/TimofteRazvan/university-projects/tree/main/2nd-semester/object-oriented-programming)
+    - [Data Structures & Algorithms](https://github.com/TimofteRazvan/university-projects/tree/main/2nd-semester/data-structures-and-algorithms)
+    - Geometry
+    - Dynamical Systems
+    - [Graph Algorithms](https://github.com/TimofteRazvan/university-projects/tree/main/2nd-semester/graph-algorithms)
+  - 3<sup>rd</sup> Semester
+    - [Advanced Programming Methods](https://github.com/TimofteRazvan/university-projects/tree/main/3rd-semester/advanced-programming-methods)
+    - [Computer Networks](https://github.com/TimofteRazvan/university-projects/tree/main/3rd-semester/computer-networks)
+    - [Logic & Functional Programming](https://github.com/TimofteRazvan/university-projects/tree/main/3rd-semester/functional-and-logic-programming)
+    - [Probability & Statistics Theory](https://github.com/TimofteRazvan/university-projects/tree/main/3rd-semester/probability-and-statistics)
+    - [Databases](https://github.com/TimofteRazvan/university-projects/tree/main/3rd-semester/databases)
+
+- Personal
+  - Games
+    - [Raincatcher](https://github.com/TimofteRazvan/personal-projects/tree/main/games/libgdx/rain-catcher-simple)
+  - Spring
+    - [Employees API](https://github.com/TimofteRazvan/personal-projects/tree/main/spring/FirstSpring)
+
