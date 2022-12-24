@@ -61,5 +61,5 @@ Here are some ideas to get you started:
   - Games
     - [Raincatcher](https://github.com/TimofteRazvan/personal-projects/tree/main/games/libgdx/rain-catcher-simple)
   - Spring
-    - [Employees API](https://github.com/TimofteRazvan/personal-projects/tree/main/spring/FirstSpring)
+    - [Employees](https://github.com/TimofteRazvan/personal-projects/tree/main/spring/FirstSpring)
 
