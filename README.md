@@ -62,4 +62,5 @@ Here are some ideas to get you started:
     - [Raincatcher](https://github.com/TimofteRazvan/personal-projects/tree/main/games/libgdx/rain-catcher-simple)
   - Spring
     - [Employees](https://github.com/TimofteRazvan/personal-projects/tree/main/spring/FirstSpring)
+    - [Thymeleaf Basics](https://github.com/TimofteRazvan/personal-projects/tree/main/spring/thymeleaf)
 
