@@ -63,4 +63,5 @@ Here are some ideas to get you started:
   - Spring
     - [Employees](https://github.com/TimofteRazvan/personal-projects/tree/main/spring/FirstSpring)
     - [Thymeleaf Basics](https://github.com/TimofteRazvan/personal-projects/tree/main/spring/thymeleaf)
+    - [Online Library](https://github.com/TimofteRazvan/personal-projects/tree/main/spring/OnlineLibrary)
 
