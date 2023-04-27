@@ -64,5 +64,6 @@ Here are some ideas to get you started:
     - [Employees](https://github.com/TimofteRazvan/personal-projects/tree/main/spring/FirstSpring)
     - [Thymeleaf Basics](https://github.com/TimofteRazvan/personal-projects/tree/main/spring/thymeleaf)
     - [Online Library](https://github.com/TimofteRazvan/online-library/tree/main)
-    - [E-Matter](https://github.com/TimofteRazvan/e-matter)
+    - [E-Matter !WIP!](https://github.com/TimofteRazvan/e-matter)
+    - [Quest Board](https://github.com/TimofteRazvan/quest-board)
 
