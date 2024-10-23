@@ -41,14 +41,10 @@ Here are some ideas to get you started:
     - [Computer Systems Architecture](https://github.com/TimofteRazvan/university-projects/tree/main/1st-semester/computational-logic)
     - [Computational Logic](https://github.com/TimofteRazvan/university-projects/tree/main/1st-semester/computer-systems-architecture)
     - [Fundamentals of Programming](https://github.com/TimofteRazvan/university-projects/tree/main/1st-semester/fundamentals-of-programming)
-    - Algebra
-    - Calculus
   - 2<sup>nd</sup> Semester
     - [Operating Systems](https://github.com/TimofteRazvan/university-projects/tree/main/2nd-semester/operating-systems)
     - [Object-Oriented Programming](https://github.com/TimofteRazvan/university-projects/tree/main/2nd-semester/object-oriented-programming)
     - [Data Structures & Algorithms](https://github.com/TimofteRazvan/university-projects/tree/main/2nd-semester/data-structures-and-algorithms)
-    - Geometry
-    - Dynamical Systems
     - [Graph Algorithms](https://github.com/TimofteRazvan/university-projects/tree/main/2nd-semester/graph-algorithms)
   - 3<sup>rd</sup> Semester
     - [Advanced Programming Methods](https://github.com/TimofteRazvan/university-projects/tree/main/3rd-semester/advanced-programming-methods)
@@ -64,6 +60,5 @@ Here are some ideas to get you started:
     - [Employees](https://github.com/TimofteRazvan/personal-projects/tree/main/spring/FirstSpring)
     - [Thymeleaf Basics](https://github.com/TimofteRazvan/personal-projects/tree/main/spring/thymeleaf)
     - [Online Library](https://github.com/TimofteRazvan/online-library/tree/main)
-    - [E-Matter !WIP!](https://github.com/TimofteRazvan/e-matter)
     - [Quest Board](https://github.com/TimofteRazvan/quest-board)
 
