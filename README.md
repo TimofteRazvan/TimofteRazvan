@@ -19,12 +19,6 @@ Here are some ideas to get you started:
   <a href="https://www.linkedin.com/in/timofte-razvan/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-  <a href="https://www.instagram.com/timofte.razvy/">
-    <img src="https://img.shields.io/badge/Instagram-purple?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge"/>
-  </a>
-  <a href="https://www.facebook.com/razvan.timofte.52/">
-    <img src="https://img.shields.io/badge/Facebook-blue?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook Badge"/>
-  </a>
    <br \>
   <img src="https://img.shields.io/badge/razvanhdt13-@gmail-red?style=plastic&logo=gmail&labelColor=white" alt="Google Badge"/>  
   <img src="https://img.shields.io/badge/Gryphon-2942-grey?style=plastic&logo=discord&labelColor=white" alt="Discord Badge"/>
@@ -37,28 +31,38 @@ Here are some ideas to get you started:
 </div>
 
 - University
-  - 1<sup>st</sup> Semester
-    - [Computer Systems Architecture](https://github.com/TimofteRazvan/university-projects/tree/main/1st-semester/computational-logic)
-    - [Computational Logic](https://github.com/TimofteRazvan/university-projects/tree/main/1st-semester/computer-systems-architecture)
+  - Labs, Projects, Assignments & Exams
+    - [Computer Systems Architecture](https://github.com/TimofteRazvan/university-projects/tree/main/1st-semester/computer-systems-architecture)
     - [Fundamentals of Programming](https://github.com/TimofteRazvan/university-projects/tree/main/1st-semester/fundamentals-of-programming)
-  - 2<sup>nd</sup> Semester
     - [Operating Systems](https://github.com/TimofteRazvan/university-projects/tree/main/2nd-semester/operating-systems)
     - [Object-Oriented Programming](https://github.com/TimofteRazvan/university-projects/tree/main/2nd-semester/object-oriented-programming)
     - [Data Structures & Algorithms](https://github.com/TimofteRazvan/university-projects/tree/main/2nd-semester/data-structures-and-algorithms)
     - [Graph Algorithms](https://github.com/TimofteRazvan/university-projects/tree/main/2nd-semester/graph-algorithms)
-  - 3<sup>rd</sup> Semester
     - [Advanced Programming Methods](https://github.com/TimofteRazvan/university-projects/tree/main/3rd-semester/advanced-programming-methods)
     - [Computer Networks](https://github.com/TimofteRazvan/university-projects/tree/main/3rd-semester/computer-networks)
-    - [Logic & Functional Programming](https://github.com/TimofteRazvan/university-projects/tree/main/3rd-semester/functional-and-logic-programming)
-    - [Probability & Statistics Theory](https://github.com/TimofteRazvan/university-projects/tree/main/3rd-semester/probability-and-statistics)
     - [Databases](https://github.com/TimofteRazvan/university-projects/tree/main/3rd-semester/databases)
+    - [Formal Languages & Compiler Design](https://github.com/TimofteRazvan/flcd-language)
+    - [Deep Learning & Computer Vision](https://github.com/TimofteRazvan/deep-learning-computer-vision)
+    - [Android Things](https://github.com/TimofteRazvan/arduino-helldivers-menu)
+    - [Software Systems Verification and Validation](https://github.com/TimofteRazvan/ssvv-testlink)
+  - Systems for Design and Implementation - Fully Deployed API
+    - [Employee API Backend](https://github.com/TimofteRazvan/employee-api-backend)
+    - [Employee API Frontend](https://github.com/TimofteRazvan/employee-api-frontend)
+  - Group Project
+    - [AdoptMe Backend](https://github.com/DreamWorksss/AdoptMe-backend/tree/develop)
+    - [AdoptMe Frontend](https://github.com/DreamWorksss/adoptme-frontend/)
+  - Virtual Reality Group Theme Project
+    - [Nyctophobia Theme Project](https://github.com/TimofteRazvan/nyctophobia-theme-project)
+  - BACHELOR'S THESIS
+    - [Augmented Reality Food Detection via YOLO](https://github.com/TimofteRazvan/bachelor-thesis-augmented-reality-food-detection)
 
 - Personal
-  - Games
+  - Libgdx
     - [Raincatcher](https://github.com/TimofteRazvan/personal-projects/tree/main/games/libgdx/rain-catcher-simple)
   - Spring
     - [Employees](https://github.com/TimofteRazvan/personal-projects/tree/main/spring/FirstSpring)
     - [Thymeleaf Basics](https://github.com/TimofteRazvan/personal-projects/tree/main/spring/thymeleaf)
     - [Online Library](https://github.com/TimofteRazvan/online-library/tree/main)
     - [Quest Board](https://github.com/TimofteRazvan/quest-board)
-
+    - [Tamagotchi Backend](https://github.com/TimofteRazvan/tamagotchi-backend)
+    - [Tamagotchi Frontend](https://github.com/TimofteRazvan/tamagotchi-frontend)
