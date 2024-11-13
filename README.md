@@ -45,6 +45,8 @@ Here are some ideas to get you started:
     - [Deep Learning & Computer Vision](https://github.com/TimofteRazvan/deep-learning-computer-vision)
     - [Android Things](https://github.com/TimofteRazvan/arduino-helldivers-menu)
     - [Software Systems Verification and Validation](https://github.com/TimofteRazvan/ssvv-testlink)
+  - Methods of Advanced Programming - Toy Language Interpreter in Java
+    - [Toy Language Interpreter](https://github.com/TimofteRazvan/university-projects/tree/main/3rd-semester/advanced-programming-methods/toy-language-final)
   - Systems for Design and Implementation - Fully Deployed API
     - [Employee API Backend](https://github.com/TimofteRazvan/employee-api-backend)
     - [Employee API Frontend](https://github.com/TimofteRazvan/employee-api-frontend)
