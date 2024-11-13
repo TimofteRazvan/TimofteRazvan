@@ -50,7 +50,7 @@ Here are some ideas to get you started:
   - Systems for Design and Implementation - Fully Deployed API
     - [Employee API Backend](https://github.com/TimofteRazvan/employee-api-backend)
     - [Employee API Frontend](https://github.com/TimofteRazvan/employee-api-frontend)
-  - Group Project
+  - Group Project - Pet Shelters & Adoption Centres Web App
     - [AdoptMe Backend](https://github.com/DreamWorksss/AdoptMe-backend/tree/develop)
     - [AdoptMe Frontend](https://github.com/DreamWorksss/adoptme-frontend/)
   - Virtual Reality Group Theme Project
