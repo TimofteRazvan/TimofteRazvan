@@ -59,12 +59,16 @@ Here are some ideas to get you started:
     - [Augmented Reality Food Detection via YOLO](https://github.com/TimofteRazvan/bachelor-thesis-augmented-reality-food-detection)
 
 - Personal
-  - Libgdx
-    - [Raincatcher](https://github.com/TimofteRazvan/personal-projects/tree/main/games/libgdx/rain-catcher-simple)
-  - Spring
-    - [Employees](https://github.com/TimofteRazvan/personal-projects/tree/main/spring/FirstSpring)
-    - [Thymeleaf Basics](https://github.com/TimofteRazvan/personal-projects/tree/main/spring/thymeleaf)
-    - [Online Library](https://github.com/TimofteRazvan/online-library/tree/main)
-    - [Quest Board](https://github.com/TimofteRazvan/quest-board)
-    - [Tamagotchi Backend](https://github.com/TimofteRazvan/tamagotchi-backend)
-    - [Tamagotchi Frontend](https://github.com/TimofteRazvan/tamagotchi-frontend)
+  - Java
+    - Games (Libgdx)
+      - [Raincatcher](https://github.com/TimofteRazvan/personal-projects/tree/main/games/libgdx/rain-catcher-simple)
+    - Web Applications
+      - [Employees](https://github.com/TimofteRazvan/personal-projects/tree/main/spring/FirstSpring)
+      - [Thymeleaf Basics](https://github.com/TimofteRazvan/personal-projects/tree/main/spring/thymeleaf)
+      - [Online Library](https://github.com/TimofteRazvan/online-library/tree/main)
+      - [Quest Board](https://github.com/TimofteRazvan/quest-board)
+      - [Tamagotchi Backend](https://github.com/TimofteRazvan/tamagotchi-backend)
+      - [Tamagotchi Frontend](https://github.com/TimofteRazvan/tamagotchi-frontend)
+  - Go
+    - Web Applications
+      - [Castle Event Booker Web App](https://github.com/TimofteRazvan/castle-event-booker)
