@@ -59,10 +59,13 @@ Here are some ideas to get you started:
     - [Augmented Reality Food Detection via YOLO](https://github.com/TimofteRazvan/bachelor-thesis-augmented-reality-food-detection)
 
 - Personal
+  - C#
+    - .NET
+      - [Time-based One-time Password System](https://github.com/TimofteRazvan/TOTPSystem)
   - Java
     - Games (Libgdx)
       - [Raincatcher](https://github.com/TimofteRazvan/personal-projects/tree/main/games/libgdx/rain-catcher-simple)
-    - Web Applications
+    - Spring
       - [Employees](https://github.com/TimofteRazvan/personal-projects/tree/main/spring/FirstSpring)
       - [Thymeleaf Basics](https://github.com/TimofteRazvan/personal-projects/tree/main/spring/thymeleaf)
       - [Online Library](https://github.com/TimofteRazvan/online-library/tree/main)
