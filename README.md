@@ -21,7 +21,6 @@ Here are some ideas to get you started:
   </a>
    <br \>
   <img src="https://img.shields.io/badge/razvanhdt13-@gmail-red?style=plastic&logo=gmail&labelColor=white" alt="Google Badge"/>  
-  <img src="https://img.shields.io/badge/Gryphon-2942-grey?style=plastic&logo=discord&labelColor=white" alt="Discord Badge"/>
    <br \> Remember, 6 hours of debugging can save you 5 minutes of reading documentation!
 </div>
 </div>
